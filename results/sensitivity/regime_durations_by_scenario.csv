@@ -1,0 +1,7 @@
+scenario,regime,expected_duration_days
+baseline,low_vol_bull,83.25678513821954
+baseline,high_vol_bear,35.25392860784226
+diffuse,low_vol_bull,80.16868154913735
+diffuse,high_vol_bear,33.564820868449495
+informative_persistent,low_vol_bull,81.69639269153228
+informative_persistent,high_vol_bear,34.64359953360959
